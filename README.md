@@ -59,5 +59,3 @@ Para el desarrollo del Dashboard, se hizo uso de PowerBi.
 
 [![Linkedin: mayrasierraat](https://img.shields.io/badge/-mayrasierraat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayrasierraat/)](https://www.linkedin.com/in/mayrasierraat/)
 [![Gmail: mayrasierraat@gmail.com](https://img.shields.io/badge/Gmail-mayrasierraat@gmail.com-red)](mailto:mayrasierraat@gmail.com)
-
-<p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
